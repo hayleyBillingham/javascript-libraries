@@ -1,0 +1,3 @@
+[submodule "gsap"]
+	path = gsap
+	url = https://github.com/hayleyBillingham/gsap.git
